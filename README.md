@@ -1,5 +1,5 @@
 
-## Projeto Bootcamp Microsoft 
+## Projeto Bootcamp Microsoft Azure
 
 
 ### Utilização do Detect faces in an image 
